@@ -16,17 +16,22 @@ I am passionate about building scalable distributed systems, agentic AI, and mac
 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉 Started rebuilding Distributed Key-Value Storage System project in Go
 - *2025.08*: &nbsp;🎉 Completed Software Engineer Internship at HSBC, building Google ADK multi-agent systems and saving ~$420K in costs
+- *2025.07*: &nbsp;🎉 Awarded Dean's List for 2024/2025
 - *2025.05*: &nbsp;🎉 Completed Research Assistant position in Reinforcement Learning at NYU
-- *2025.01*: &nbsp;🎉 Started working on Distributed Key-Value Storage System project
+- *2025.01*: &nbsp;🎉 Started working on Distributed Key-Value Storage System project in Java
+- *2025.01*: &nbsp;🎉 Join NYU VIP Technology Innovation Catalysts 
 - *2024.08*: &nbsp;🎉 Completed Software Engineer Internship at Johnson & Johnson, building AI agents with RAG systems
 - *2024.09*: &nbsp;🎉 Started Cloud-Native GoPaaS Platform Development project
-- *2024.05*: &nbsp;🎉 Awarded Dean's List for 2024
+- *2023.10*: &nbsp;🎉 Keenstar Scholarship
+- *2023.09*: &nbsp;🎉 Nobel Class Member 
 - *2023.08*: &nbsp;🎉 Completed Data Engineer Internship at Deloitte
+
 
 # 📖 Education
 
-- *2022 - Expected 2026*, **Bachelor of Science in Computer Science**, New York University
+- *2024 - Expected 2026*, **Bachelor of Science in Computer Science**, New York University
   - Awards: 2024, 2025 Dean's List
   - Relevant Coursework: Data Structures, Algorithms, Machine Learning, Deep Learning, Software Engineering (Agile), Database Systems, Computer Networking, Object-Oriented Programming, Operating Systems, Optimization, Stochastic Process
 
@@ -83,18 +88,31 @@ I am passionate about building scalable distributed systems, agentic AI, and mac
 - Tuned HBase with Phoenix and block caching to optimize read/write throughput and reduce disk I/O.
 - Coordinated distributed services and failover with ZooKeeper to maintain high system availability.
 
-# 🔬 Research
+# 🔬 Research & Program
 
-## New York University
 **Research Assistant | Reinforcement Learning** | *Jan 2025 - May 2025*
 - Simulated high-dimensional contextual bandit in PyTorch, implementing dynamic pricing with RMLP and semiparametric GLMs.
 - Analyzed regret bounds across linear, nonlinear, and parametric regimes, studying dimension d, noise, and exploration trade-offs.
 
-# 🎖 Honors and Awards
-- *2025*: Dean's List, New York University
-- *2024*: Dean's List, New York University
+## Technology Innovation Catalysts | New York University VIP
+**Technology Innovation Catalysts** | *Jan 2025 - May 2025*
+- Led cross-functional patent reviews with faculty, tech transfer, and industry advisors, facilitating consensus under ambiguity.
+- Translated complex tech concepts into clear business narratives, enabling stakeholders to make go/no-go decisions.
+- Drove outcome-oriented workstreams, prioritizing and presenting risked options to align teams on commercialization paths.
 
-# 💻 Technical Skills
+## New York University
+**Research Assistant | Carbon Emissions** | *Jan 2024 - June 2024*
+- Processed satellite data using NetCDF and visualized with Matplotlib/Cartopy, reprojecting via rasterio for regional analysis.
+- Authored reusable template + README to auto-generate regional analysis with parameterized configs for new geographies.
+- Optimized geospatial matching algorithms by implementing k-d tree data structures, reducing processing time by 50%.
+
+# 🎖 Honors and Awards
+- *2024/2025*: Dean's List, New York University
+- *2024/2025*: Join New York Univerisity 
+- *2022/2023*: Keenstar Scholarship, CUHK Shenzhen
+- *2022/2023*: Nobel Class, CUHK Shenzhen
+
+# ⌛️ Technical Skills
 
 **Programming Languages:** C/C++, C#, Java, Python, SQL, Go, Ruby, JavaScript, TypeScript, Groovy
 

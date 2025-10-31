@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Guanqiao Chen/Personal Homepage"
-description              : "Computer Science Student at New York University, Expected 2026"
+description              : "Analytical. Tenacious. Builder."
 repository               : "GuanqiaoChen/guanqiaochen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Guanqiao Chen (陈冠桥)"
+  name             : "Guanqiao Chen  (陈冠桥)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Computer Science Student at New York University"
   location         : "Brooklyn, NY"
