@@ -94,13 +94,11 @@ I am passionate about building scalable distributed systems, agentic AI, and mac
 - Simulated high-dimensional contextual bandit in PyTorch, implementing dynamic pricing with RMLP and semiparametric GLMs.
 - Analyzed regret bounds across linear, nonlinear, and parametric regimes, studying dimension d, noise, and exploration trade-offs.
 
-## Technology Innovation Catalysts | New York University VIP
-**Technology Innovation Catalysts** | *Jan 2025 - May 2025*
+**Technology Innovation Catalysts | New York University VIP** | *Jan 2025 - May 2025*
 - Led cross-functional patent reviews with faculty, tech transfer, and industry advisors, facilitating consensus under ambiguity.
 - Translated complex tech concepts into clear business narratives, enabling stakeholders to make go/no-go decisions.
 - Drove outcome-oriented workstreams, prioritizing and presenting risked options to align teams on commercialization paths.
 
-## New York University
 **Research Assistant | Carbon Emissions** | *Jan 2024 - June 2024*
 - Processed satellite data using NetCDF and visualized with Matplotlib/Cartopy, reprojecting via rasterio for regional analysis.
 - Authored reusable template + README to auto-generate regional analysis with parameterized configs for new geographies.
