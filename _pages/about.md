@@ -88,6 +88,8 @@ I am passionate about building scalable distributed systems, agentic AI, and mac
 - Tuned HBase with Phoenix and block caching to optimize read/write throughput and reduce disk I/O.
 - Coordinated distributed services and failover with ZooKeeper to maintain high system availability.
 
+<span class='anchor' id='research--program'></span>
+
 # 🔬 Research & Program
 
 **Research Assistant | Reinforcement Learning** | *Jan 2025 - May 2025*
@@ -109,6 +111,8 @@ I am passionate about building scalable distributed systems, agentic AI, and mac
 - *2024/2025*: Join New York Univerisity 
 - *2022/2023*: Keenstar Scholarship, CUHK Shenzhen
 - *2022/2023*: Nobel Class, CUHK Shenzhen
+
+<span class='anchor' id='technical-skills'></span>
 
 # ⌛️ Technical Skills
 
