@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Guanqiao Chen/Personal Homepage"
-description              : "A college student in New York University"
+description              : "Computer Science Student at New York University, Expected 2026"
 repository               : "GuanqiaoChen/guanqiaochen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Guanqiao Chen (陈冠桥)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "New York University"
-  location         : "New York, NY"
+  bio              : "Computer Science Student at New York University"
+  location         : "Brooklyn, NY"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "Guanqiao Chen"
+  linkedin         : "gabriel-chen-249519314"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
