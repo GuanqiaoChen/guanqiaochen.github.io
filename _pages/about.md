@@ -31,8 +31,8 @@ I am passionate about building scalable distributed systems, agentic AI, and mac
 
 # 📖 Education
 
-- *2024 - Expected 2026*, **Bachelor of Science in Computer Science**, New York University
-  - Awards: 2024, 2025 Dean's List
+- *Expected 2026*, **Bachelor of Science in Computer Science**, New York University
+  - Awards: 2024/2025 Dean's List, Keenstar Scholarship
   - Relevant Coursework: Data Structures, Algorithms, Machine Learning, Deep Learning, Software Engineering (Agile), Database Systems, Computer Networking, Object-Oriented Programming, Operating Systems, Optimization, Stochastic Process
 
 # 💻 Work Experience
