@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Guanqiao (Gabriel) Chen, a Computer Science student at New York University, expecting to graduate in 2026 with a Bachelor of Science degree. I have been honored with the Dean's List for 2024 and 2025. My coursework includes Data Structures, Algorithms, Machine Learning, Deep Learning, Software Engineering (Agile), Database Systems, Computer Networking, Object-Oriented Programming, Operating Systems, Optimization, and Stochastic Process.
+I am Guanqiao (Gabriel) Chen, a Computer Science student at New York University, expecting to graduate in 2026 with a Bachelor of Science degree.
 
 I am passionate about building scalable distributed systems, agentic AI, and machine learning. My experience spans software engineering internships at major companies including HSBC and Johnson & Johnson, where I worked on AI automation platforms and agentic systems.
 
